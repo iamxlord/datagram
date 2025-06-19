@@ -9,6 +9,9 @@
 ```bash
 git clone https://github.com/iamxlord/datagram.git
 ```
+
+```open directory ```
+
 ```bash
 cd datagram
 ```

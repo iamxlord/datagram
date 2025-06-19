@@ -72,7 +72,8 @@ get_api_key() {
     if [ -f "$API_KEY_FILE" ]; then
         API_KEY=$(cat "$API_KEY_FILE")
         echo -e "${GREEN}🔑 API key retrieved from storage.${RESET}"
-        read -p "Would you like to use this key or enter a new one? (u/n): " choice
+        read -p "Would you like to use this key or enter a new one? (u/n): "
+        read -p "(n: set API key, u: use exisiting API): " choice
         case "$choice" in
             n|N)
                 read -p "🔑 Enter your NEW API key: " NEW_API_KEY

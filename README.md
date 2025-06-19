@@ -2,4 +2,12 @@
 
 > By Mr. X (x.com/iamxlord)
 
-# UBUNTU/DEBIAN VPS/PC GUIDE
+## UBUNTU/DEBIAN VPS/PC USAGE GUIDE
+clone the github repo
+```git clone https://github.com/iamxlord/datagram.git```
+
+cd datagram
+
+chmod +x datagram.sh
+
+https://github.com/iamxlord/datagram.git

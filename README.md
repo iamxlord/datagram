@@ -49,7 +49,7 @@ cd datagram
 chmod +x datagram.sh
 ```
 
-```⚙️start the node```
+```⚙️ start the node```
 ```bash
 ./datagram.sh start
 ```
@@ -93,5 +93,6 @@ tail -f datagram.log
  * Your API key is stored in $HOME/.datagram_cli/api_key.conf.
  * For advanced configurations or troubleshooting, refer to the official Datagram CLI documentation.
 
-✘ Contributions
+✘ Contributions:
+
 Feel free to fork the repository, open issues, or submit pull requests if you have suggestions or improvements!

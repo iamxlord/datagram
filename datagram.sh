@@ -27,8 +27,8 @@ MrXintro() {
     echo "██║ ╚═╝ ██║██║  ██║██╗    ██╔╝ ██╗"
     echo "╚═╝     ╚═╝╚═╝  ╚═╝╚═╝    ╚═╝  ╚═╝"
                                   
-    echo "                 Github: github.com/iamxlord"
-    echo -e "                 Twitter: @iamxlord${RESET}"
+    echo "                 Github: http://github.com/iamxlord"
+    echo -e "                 Twitter: http://x.com/iamxlord${RESET}"
     echo ""
 }
 
